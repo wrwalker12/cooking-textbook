@@ -5,4 +5,18 @@ author:
   - Weird Wendy
 
 description: |
-  Here is the description of my highly original OER textbook. It includes amazing words and even some pictures.
+  Here is the description of my highly original OER textbook on cooking. It includes amazing words and even some pictures.
+  
+keywords: |
+  - oer
+  - textbook test
+  - cooking
+
+date: 2022
+
+copyright:
+  holder: Weird Wendy
+  statement: In Copyright
+  statement-uri: http://rightsstatements.org/vocab/InC/1.0/
+  license: Creative Commons Attribution 4.0 International (CC BY 4.0)
+  license-uri: https://creativecommons.org/licenses/by/4.0/
