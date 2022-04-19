@@ -12,15 +12,15 @@ Meal planning matters in my house for several key reasons. Meal planning:
 
 -   Reduces cognitive load on a daily basis by removing a decision point (what to have for dinner)
 
-How often do you throw away those vegetables that you intended to eat? How many times a week do you come home from a long day, open the refrigerator, and think, "Let's just go out." How many times a week do you think, "We went out last night. I *have* to cook something tonight. What should I make? What do we have?" It can feel exhausting.
+How often do you throw away those wilted, spoiled vegetables that you intended to eat? How many times a week do you come home from a long day, open the refrigerator, and think, "Let's just go out." How many times a week do you think, "We went out last night. I *have* to cook something tonight. What should I make? What do we have?" It can feel exhausting.
 
 ## How do you plan meals?
 
 Meal planning is not terribly difficult and becomes easier over time. As you gather recipes and gain a better understanding of likes and dislikes, it becomes easier to think about what to cook for the coming week. I usually plan meals on Sunday for the coming seven days.
 
-Once I have decided on the meals, I'll order them. Thinking about the shelf-life of vegetables can help you create the order. For example, peppers, onions, broccoli, cauliflower, and green beans will last several days in the refrigerator. Green onions, fresh herbs, and pre-sliced mushrooms can spoil a little more quickly, so plan to eat those earlier in the coming week.
+Once I have decided on the meals, I'll assign them to a day of the upcoming week. Thinking about the shelf-life of vegetables can help you create the order in which you will eat your meals. For example, peppers, onions, broccoli, cauliflower, and green beans will last for several days in the refrigerator. Green onions, fresh herbs, and pre-sliced mushrooms can spoil a little more quickly, so plan to eat those earlier in the coming week.
 
-Meal planning can take some time, but it's worth it.
+Meal planning can take some time and thought, but it's worth it.
 
 ## How do you shop?
 
