@@ -29,6 +29,7 @@ You can consider all of these questions - and others that you'll ask given your 
 I could have amassed a large collection of recipes over the last ten years. The meal evaluation process helps me curate my recipe files so that I don't keep recipes that I know I'll never make again. It also helps me better understand likes and dislikes so that I can choose new recipes that are likely to make it into the regular rotation. Evaluating the meal can also help highlight areas of cooking strengths and areas that could use improvement. My vegetable chopping skills have definitely improved. Chopped pieces are more uniformly sized and therefore cook through more evenly. I'm not sure if I will ever understand how (or even why) to cook cube steak.
 
 ::: box :::
+
 ## Recipe Examples
 
 And now for the part you might have expected all along: A couple of recipes. This book is, afterall, about cooking.
@@ -40,4 +41,5 @@ And now for the part you might have expected all along: A couple of recipes. Thi
 ### Crispy Pork Tacos
 
 \[INSERT IMAGE: "(Crispy pork tacos)" tacos.jpg\]
+
 :::
