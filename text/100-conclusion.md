@@ -1,4 +1,4 @@
-# Conclusion to this Highly Original OER Textbook
+# Conclusion to this Highly Original OER Textbook on Cooking
 
 The cooking journey is unique to each individual. In my own journey, I started with very little basic knowledge. There were a few things I knew how to cook well, namely:
 
