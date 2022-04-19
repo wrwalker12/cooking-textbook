@@ -34,8 +34,38 @@ And now for the part you might have expected all along: A couple of recipes. Thi
 
 ### Shopsky Salad
 
+Shopsky salad is a delicious blend of fresh tomatoes, cucumber, green onion, and sour cream. (You could probably substitute plain Greek yogurt for the sour cream.) Add salt and pepper to taste, and you've got an easy, healthy, fast side dish to accompany whatever protein you choose to serve. It's a nice, light summer salad, but its green, red, and white colors can also add comliment your Yuletime festivities.
+
 [Shopsky Salad Recipe](https://chrisdaaz.github.io/forking/recipes/shopsky.html)
 
 ### Crispy Pork Tacos
 
 \[INSERT IMAGE: "(Crispy pork tacos)" tacos.jpg\]
+
+I love shredded pork, and I like my taco shells crispy! The pork takes time, and the taco shells cook one at a time, but I **love** tacos, so for me, the time is worth it.
+
+*For the Pork*
+
+1. Pre-heat the over to 325 degrees Fahrenheit, and place the oven rack in the lower third of the oven.
+2. Place a 3-4 pound pork shoulder roast in a Dutch oven. (The roast can be boneless or bone-in.)
+3. Generously season the roast all over with salt and pepper.
+4. Add liquid to the pot until the roast is half-way submerged. The liquid can be water, chicken broth, or beef broth.
+5. Place the Dutch oven on the stove over medium-high heat and bring the liquid to a simmer.
+6. Once simmering, put a lid on the pot, and put the pot in the oven for 2-4 hours. 
+7. When the pork is fork-tender and obviously shreddable, remove it to a cutting board and let it rest until it is cool enough to handle.
+8. Using two forks or your fingers, shred the pork. 
+
+*For the Taco Shells*
+
+1. Heat about a cup of oil in a small skillet over medium-high heat. (I use grapeseed oil and a 7" skillet.)
+2. Once the oil is heated, use tongs to place one corn tortilla into the skillet. Submerge one side then turn over to submerge the other side.
+3. Using the tongs, fold the tortilla in half and fry in the oil for ten seconds or so. You want the tortilla to start taking the shape of a taco shell.
+4. Turn the tortilla over again and use the tongs to hold one half of the tortilla at a 45 degree angle (out of the oil) so that as it cooks and hardens, it will be an easily fillable taco shell, not a closed one that you have to pry open (and crack) in order to fill with pork. Cook, holding up the tortilla edge 45 degrees out of the oil for about a minute, or until the half of the shell in the oil looks crispy and slighly brown.
+5. Turn the shell over one last time and cook the remaining half until it looks crispy and slightly brown.
+6. Remove the shell and place open-side down (to drain excess oil and help the shell maintain its taco shape) on a paper-towel lined plate or surface.
+7. Repeat process with remaining tortillas. (This is all easier than it sounds.)
+
+*Final Assembly*
+
+1. Fill your crispy taco shells with some of the shredded pork.
+2. Add whatever toppings you like: shredded lettuce, salsa, sour cream, onions, cilantro, etc. 
