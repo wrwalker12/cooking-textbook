@@ -34,7 +34,7 @@ And now for the part you might have expected all along: A couple of recipes. Thi
 
 ### Shopsky Salad
 
-\[INSERT IMAGE: "(Shopsky salad)" shopsky.jpg\]
+[Shopsky Salad Recipe](https://chrisdaaz.github.io/forking/recipes/shopsky.html)
 
 ### Crispy Pork Tacos
 
