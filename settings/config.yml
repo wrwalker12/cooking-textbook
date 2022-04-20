@@ -8,13 +8,13 @@ link-citations: true
 
 # download settings
 
-#download: # full-text outputs
-#  - label: PDF
-#    link: text.pdf
-#  - label: EPUB
-#    link: text.epub
-#  - label: DOCX
-#    link: text.docx
+download: # full-text outputs
+  - label: PDF
+    link: text.pdf
+  - label: EPUB
+    link: text.epub
+  - label: DOCX
+    link: text.docx
 #  - label: LaTeX
 #    link: text.tex
 #  - label: Markdown
