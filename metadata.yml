@@ -1,11 +1,11 @@
 # bibliographic metadata
 
-title: Highly Original OER Textbook
+title: Cooking Textbook
 author: 
   - Weird Wendy
 
 description: |
-  Here is the description of my highly original OER textbook on cooking. It includes amazing words and even some pictures.
+  Here is the description of my OER cooking textbook. It includes amazing words and even some pictures.
   
 keywords: |
   - oer
@@ -21,5 +21,5 @@ copyright:
   license: Creative Commons Attribution 4.0 International (CC BY 4.0)
   license-uri: https://creativecommons.org/licenses/by/4.0/
 
-disclaimer_text: |
+disclaimer-text: |
   This sample OER textbook was assembled as part of a class project and will spontaneously combust upon use.
