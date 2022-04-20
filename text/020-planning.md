@@ -26,6 +26,8 @@ Meal planning can take some time and thought, but it's worth it.
 
 Once you decide on the meals, make a list of the ingredients that you need to buy (because you don't already have them) for each meal. For example, if I'm planning to make fried sauerkraut with bacon, I might not include bacon on my list because I already have it, but I will include sauerkraut on my list because I don't already have it. Go through each meal, and make sure you write down each ingredient that you need to purchase. Then go shop!
 
-![Sample shopping list](list.jpg "Sample shopping list of ingredients needed for the week's worth of planned meals")
+Below is a sample shopping list of ingredients for a week. I always list the meals themselves at the top of the list so that if I cannot find a particular ingredient on my list, I can easily reference the meal and determine a good substitute. I have experimented with putting the list together in different ways; this method works best for me. Find a method that works well for you. 
+
+![Sample shopping list](list.jpg "Sample shopping list of ingredients needed for a week's worth of planned meals")
 
 ## 
