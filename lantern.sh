@@ -8,9 +8,9 @@ siteurl=''
 
 output_formats() {
     html
-    #pdf
-    #epub
-    #docx
+    pdf
+    epub
+    docx
 }
 
 # utilities
