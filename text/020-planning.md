@@ -28,7 +28,7 @@ Once you decide on the meals, make a list of the ingredients that you need to bu
 
 Below is a sample shopping list of ingredients for a week. I always list the meals themselves at the top of the list so that if I cannot find a particular ingredient on my list, I can easily reference the meal and determine a good substitute. I have experimented with putting the list together in different ways; this method works best for me. Find a method that works well for you. 
 
-![Sample shopping list](/images/list.jpg)
+![Sample shopping list](images/list.jpg)
 
 *Sample shopping list for a week of meals*
 
