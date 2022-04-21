@@ -10,6 +10,6 @@ Many experts will suggest that you prep your ingredients on a weekend or all at 
 
 At this point, you might be asking why you can't just prep right before you start cooking. You can! Do what works for you. If you don't like to prep at all, I highly recommend that you at least know what ingredients you will need and where they are located in your kitchen so that you're not scrambling for that infrequently used spice that got jostled to the back of the cabinet while your garlic is burning.
 
-\[INSERT IMAGE: "(A prepped meal)" mealprep.jpg\]
+![Prepped ingredients for beef and broccoli stir fry](images/prepping.jpg)
 
 ## 
