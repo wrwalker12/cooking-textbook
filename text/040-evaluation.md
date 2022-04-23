@@ -34,7 +34,7 @@ And now for the part you might have expected all along: A couple of recipes. Thi
 
 ### Shopsky Salad
 
-Shopsky salad is a delicious blend of fresh tomatoes, cucumber, green onion, and sour cream. (You could probably substitute plain Greek yogurt for the sour cream.) Add salt and pepper to taste, and you've got an easy, healthy, fast side dish to accompany whatever protein you choose to serve. It's a nice, light summer salad, but its green, red, and white colors can also add comliment your Yuletime festivities.
+Shopsky salad is a delicious blend of fresh tomatoes, cucumber, green onion, and sour cream. (You could probably substitute plain Greek yogurt for the sour cream.) Add salt and pepper to taste, and you've got an easy, healthy, fast side dish to accompany whatever protein you choose to serve. It's a nice, light summer salad, but its green, red, and white colors can also add compliment your Yuletime festivities.
 
 [Shopsky Salad Recipe](https://chrisdaaz.github.io/forking/recipes/shopsky.html)
 
