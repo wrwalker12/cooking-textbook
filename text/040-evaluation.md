@@ -66,7 +66,7 @@ I love shredded pork, and I like my taco shells crispy! The pork takes time, and
 *Final Assembly*
 
 1. Fill your crispy taco shells with some of the shredded pork.
-2. Add whatever toppings you like: shredded lettuce, salsa, sour cream, onions, cilantro, etc. 
+2. Add whatever toppings you like: shredded lettuce, avocado, salsa, sour cream, onions, cilantro, cheese, etc. 
 
 ![Crispy pork tacos served with side salad and refried beans](images/pork1a.jpg)
 
