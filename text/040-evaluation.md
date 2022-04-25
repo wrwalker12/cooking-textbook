@@ -40,8 +40,6 @@ Shopsky salad is a delicious blend of fresh tomatoes, cucumber, green onion, and
 
 ### Crispy Pork Tacos
 
-\[INSERT IMAGE: "(Crispy pork tacos)" tacos.jpg\]
-
 I love shredded pork, and I like my taco shells crispy! The pork takes time, and the taco shells cook one at a time, but I **love** tacos, so for me, the time is worth it.
 
 *For the Pork*
@@ -69,3 +67,7 @@ I love shredded pork, and I like my taco shells crispy! The pork takes time, and
 
 1. Fill your crispy taco shells with some of the shredded pork.
 2. Add whatever toppings you like: shredded lettuce, salsa, sour cream, onions, cilantro, etc. 
+
+![Crispy pork tacos served with side salad and refried beans](images/pork1a.jpg)
+
+![Crispy pork taco close-up](images/pork2a.jpg)
